@@ -56,7 +56,8 @@
 
 ## Assessment / Grading Details
 * Attendance 20%, Assignments 25%, Mid-term Exam 30%, Final Exam 30%
-* __Mid-term exam__: 3.26 Tue (in class)
-* __Final exam__: 4.19 Fri (in class)
-* Exams are open-book without computer/phone/calculator use
+* Attendance: Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
+* __Mid-term Exam__: 3.26 Tue (in class). Open-book without computer/phone/calculator use
+* __Final Exam__: 4.19 Fri (in class). Open-book without computer/phone/calculator use
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
+* The level of background knowledge may vary among students, but it will be ignored in grading. Grading will be strickly based on outcome, not on effort or progress.
