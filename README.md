@@ -5,9 +5,9 @@
 
 ## Resources
 * [Course Note](files/SCFA_Notes.pdf): Supplementary to textbook (`SCFA`).
-* Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf), [2016](files/SF2016_HW_Solution.pdf)
-* Midterm Exams: [2016 ASP](files/ASP2016_Midterm_Solution.pdf), [2016](files/SF2016_Midterm_Solution.pdf)
-* Final Exams: [2016](files/SF2016_Final_Solution.pdf)
+* Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf) | [2016](files/SF2016_HW_Solution.pdf) | [2017](files/SF2017_HW_Solution.pdf)
+* Midterm Exams in Past Years: [2016 ASP](files/ASP2016_Midterm.pdf), [2016](files/SF2016_Midterm.pdf)
+* Final Exams in Past Years: [2016](files/SF2016_Final.pdf) | [2017](files/SF2017_Final.pdf)
 
 ## Lectures: 
 * __01__ (2.19 Tue): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
