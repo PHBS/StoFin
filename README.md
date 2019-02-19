@@ -1,7 +1,7 @@
 # Stochastic Finance 2018-19 Module 3 (Spring 2019)
 
 ## Announcements
-* 
+* Class mailing list will bs created as __PHBS.StoFin@allmail.net__ soon.
 
 ## Resources
 * [Course Note](files/SCFA_Notes.pdf): Supplementary to textbook (`SCFA`).
