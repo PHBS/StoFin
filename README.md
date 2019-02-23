@@ -39,17 +39,17 @@
 
 ## Classes:
 * Lectures: Tuesday & Friday 10:30 – 12:20 AM
-* Venue: PHBS Building, Room XXX
+* Venue: PHBS Building, Room 229
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en)
 * Office: PHBS Building, Room 755
 * Phone: 86-755-2603-0568
 * Email: jaehyuk@phbs.pku.edu.cn
-* Office Hour: Tuesday, Friday 3:30-4:00 PM / Thursday 3-4 PM (__subject to change__)
+* Office Hour: Thursday 3:30-5:30 PM (__final__)
 
-## Teaching Assistance: `TBA`
-* Email: 
-* TA Office Hour: 
+## Teaching Assistance: Devon Ge (葛德生)
+* Email: 1701213756@sz.pku.edu.cn
+* TA Office Hour: Tuesday 7-9 PM (Room 213/214)
 
 ## Textbooks and Reading Materials
 * __SCFA__: [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
