@@ -14,7 +14,7 @@
 * __02__ (2.22 Fri): Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), [World Series Derivative](files/World_Series.pdf)
 * __03__ (2.26 Tue): SCFA Ch. 1 
 * __04__ (3.01 Fri):
-* __05__ (3.05 Tue):
+* __05__ (3.05 Tue): [HW1 Due]
 * __06__ (3.08 Fri):
 * __07__ (3.12 Tue):
 * __08__ (3.15 Fri):
@@ -30,9 +30,9 @@
 * __18__ (4.19 Fri): __FINAL EXAM__
 
 ## Homeworks: 
-### __Set 1__ 
-### __Set 2__ 
-### __Set 3__ 
+### __Set 1__: __SCFA__ Exercise Problem 1.1 and 1.3 [Due by 3.05 Tues. Submit to TA at class]
+### __Set 2__:
+### __Set 3__:
 
 ***
 # Syllabus
