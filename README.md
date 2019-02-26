@@ -11,8 +11,8 @@
 
 ## Lectures: 
 * __01__ (2.19 Tue): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
-* __02__ (2.22 Fri): Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), SCFA Ch. 1
-* __03__ (2.26 Tue):
+* __02__ (2.22 Fri): Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), [World Series Derivative](files/World_Series.pdf)
+* __03__ (2.26 Tue): SCFA Ch. 1 
 * __04__ (3.01 Fri):
 * __05__ (3.05 Tue):
 * __06__ (3.08 Fri):
@@ -49,7 +49,7 @@
 
 ## Teaching Assistance: Devon Ge (葛德生)
 * Email: 1701213756@sz.pku.edu.cn
-* TA Office Hour: Tuesday 7-9 PM (Room 213/214)
+* TA Office Hour: Tuesday & Friday 7-9 PM (Room 213/214)
 
 ## Textbooks and Reading Materials
 * __SCFA__: [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
