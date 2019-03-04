@@ -12,9 +12,9 @@
 ## Lectures: 
 * __01__ (2.19 Tue): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
 * __02__ (2.22 Fri): Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), [World Series Derivative](files/World_Series.pdf)
-* __03__ (2.26 Tue): SCFA Ch. 1 
-* __04__ (3.01 Fri):
-* __05__ (3.05 Tue): [HW1 Due]
+* __03__ (2.26 Tue): SCFA Ch. 1
+* __04__ (3.01 Fri): SCFA Ch. 2
+* __05__ (3.05 Tue): [HW1 Due], SCFA Ch. 3
 * __06__ (3.08 Fri):
 * __07__ (3.12 Tue):
 * __08__ (3.15 Fri):
