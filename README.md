@@ -15,10 +15,10 @@
 * __03__ (2.26 Tue): SCFA Ch. 1
 * __04__ (3.01 Fri): SCFA Ch. 2
 * __05__ (3.05 Tue): [HW1 Due], SCFA Ch. 3
-* __06__ (3.08 Fri):
-* __07__ (3.12 Tue):
+* __06__ (3.08 Fri): SCFA Ch. 4
+* __07__ (3.12 Tue): SCFA Ch. 5
 * __08__ (3.15 Fri):
-* __09__ (3.19 Tue):
+* __09__ (3.19 Tue): [HW2 Due] 
 * __10__ (3.22 Fri):
 * __11__ (3.26 Tue): __MIDTERM EXAM__
 * __12__ (3.29 Fri):
@@ -31,7 +31,7 @@
 
 ## Homeworks: 
 ### __Set 1__: __SCFA__ Exercise Problem 1.1 and 1.3 [Due by 3.05 Tues. Submit in class]
-### __Set 2__:
+### __Set 2__: [HW 2](files/SF2018_HW_Solution.pdf) [Due by 3.16 Tues. Submit in class]
 ### __Set 3__:
 
 ***
