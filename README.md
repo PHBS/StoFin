@@ -17,9 +17,9 @@
 * __04__ (3.01 Fri): SCFA Ch. 2
 * __05__ (3.05 Tue): [HW1 Due], SCFA Ch. 3
 * __06__ (3.08 Fri): SCFA Ch. 4
-* __07__ (3.12 Tue): Normal Model ([Slides](files/Normal_Model.pdf)), SCFA Ch. 5
-* __08__ (3.15 Fri):
-* __09__ (3.19 Tue): [HW2 Due] 
+* __07__ (3.12 Tue): Normal Model ([Slides](files/Normal_Model.pdf))
+* __08__ (3.15 Fri): SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
+* __09__ (3.19 Tue): [HW2 Due], SCFA Ch. 6, Ch. 7
 * __10__ (3.22 Fri):
 * __11__ (3.26 Tue): __MIDTERM EXAM__
 * __12__ (3.29 Fri):
