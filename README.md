@@ -1,6 +1,7 @@
 # Stochastic Finance 2018-19 Module 3 (Spring 2019)
 
 ## Announcements
+* Before midterm exam, I will have an extended office hour on 3.21, __2-6 PM__
 * Class mailing list will bs created as __PHBS.StoFin@allmail.net__ soon.
 
 ## Resources
