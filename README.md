@@ -21,7 +21,7 @@
 * __08__ (3.15 Fri): SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
 * __09__ (3.19 Tue): [HW2 Due], SCFA Ch. 6, Ch. 7
 * __10__ (3.22 Fri): SCFA Ch. 7, Ch. 8, Past midterm problem review
-* __11__ (3.26 Tue): __MIDTERM EXAM__
+* __11__ (3.26 Tue): __MIDTERM EXAM__ ([Solution](files/SF2018_Midterm.pdf))
 * __12__ (3.29 Fri):
 * __13__ (4.02 Tue):
 * __14__ (4.03 Wed): __RESCHEDULE__
