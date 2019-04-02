@@ -23,7 +23,7 @@
 * __10__ (3.22 Fri): SCFA Ch. 7, Past midterm problem review
 * __11__ (3.26 Tue): __MIDTERM EXAM__ ([Solution](files/SF2018_Midterm.pdf))
 * __12__ (3.29 Fri): SCFA Ch. 8
-* __13__ (4.02 Tue):
+* __13__ (4.02 Tue): SCFA Ch. 9, Ch. 10
 * __14__ (4.03 Wed): __RESCHEDULE__
 * __15__ (4.09 Tue):
 * __16__ (4.12 Fri):
