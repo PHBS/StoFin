@@ -33,7 +33,7 @@
 ## Homeworks: 
 ### __Set 1__: __SCFA__ Exercise Problem 1.1 and 1.3 [Due by 3.05 Tues. Submit in class]: [Solution](files/SF2018_HW_Solution.pdf)
 ### __Set 2__: [HW 2](files/SF2018_HW_Solution.pdf) [Due by 3.16 Tues. Submit in class]
-### __Set 3__: __SCFA__ Exercise 6.1, 6.2. 2017-18 Final Exam 4 (Interest rate and bond price SDE)
+### __Set 3__: __SCFA__ Exercise 6.1, 6.2. [2017 Final Exam](files/SF2017_Final.pdf) Problem 4 (Interest rate and bond price SDE)
 
 ***
 # Syllabus
