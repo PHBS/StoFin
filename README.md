@@ -26,15 +26,15 @@
 * __12__ (3.29 Fri): SCFA Ch. 8
 * __13__ (4.02 Tue): SCFA Ch. 9,
 * __14__ (4.03 Wed): __RESCHEDULE__ Ch. 10 (Black-Scholes)
-* __15__ (4.09 Tue):
-* __16__ (4.12 Fri):
-* __17__ (4.16 Tue): 
-* __18__ (4.19 Fri): [HW 3 Due] __FINAL EXAM__
+* __15__ (4.09 Tue): Midterm exam review. SCFA Ch. 12 (Martingale representation theorem)
+* __16__ (4.12 Fri): SCFA Ch. 13 (Girsanov Theorem)
+* __17__ (4.16 Tue): SCFA Ch. 14 (Equivalent Martingale Measure)
+* __18__ (4.19 Fri): [HW 3 Due] __FINAL EXAM__ ([Solution](files/SF2018_Final.pdf))
 
 ## Homeworks: 
 ### __Set 1__: __SCFA__ Exercise Problem 1.1 and 1.3 [Due by 3.05 Tues. Submit in class]: [Solution](files/SF2018_HW_Solution.pdf)
 ### __Set 2__: [HW 2](files/SF2018_HW_Solution.pdf) [Due by 3.16 Tues. Submit in class]
-### __Set 3__: __SCFA__ Exercise 6.1, 6.2. [2017 Final Exam](files/SF2017_Final.pdf) Problem 4 (Interest rate and bond price SDE) and [one more question](files/SF2018_HW_Solution.pdf)
+### __Set 3__: __SCFA__ Exercise 6.1, 6.2. [2017 Final Exam](files/SF2017_Final.pdf) Problem 4 (Interest rate and bond price SDE) and one more question: [Solution](files/SF2018_HW_Solution.pdf)
 
 ***
 # Syllabus
