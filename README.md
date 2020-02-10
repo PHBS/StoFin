@@ -15,7 +15,7 @@
 [2018](files/SF2018_Final.pdf)
 
 ## Lectures: 
-* __01__ (2.18 Tue): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
+* __01__ (2.18 Tue): Course overview, Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
 * __02__ (2.21 Fri): Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), [World Series Derivative](files/World_Series.pdf)
 * __03__ (2.25 Tue): SCFA Ch. 1
 * __04__ (2.28 Fri): SCFA Ch. 2
@@ -82,7 +82,7 @@
 * __SCFA__: [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
 
 ## Assessment / Grading Details
-* Attendance 20%, Assignments 25%, Mid-term Exam 30%, Final Exam 30%
+* Attendance 20%, Assignments 20%, Mid-term Exam 30%, Final Exam 30%
 * Attendance: TBA ~~Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave~~
 * __Mid-term Exam__: __3.20__ Tue. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
 * __Final Exam__: __4.17__ Fri. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
