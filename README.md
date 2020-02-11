@@ -24,7 +24,7 @@
 * __07__ (3.10 Tue): SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
 * __08__ (3.13 Fri): [HW2 Due], SCFA Ch. 6, Ch. 7
 * __09__ (3.17 Tue):
-* __10__ (3.20 Fri):
+* __10__ (3.20 Fri): __Midterm Exam__
 * __11__ (3.24 Tue):
 * __12__ (3.27 Fri):
 * __13__ (3.31 Tue):
@@ -32,7 +32,7 @@
 * __15__ (4.07 Tue):
 * __16__ (4.10 Fri):
 * __17__ (4.14 Tue):
-* __18__ (4.17 Fri):
+* __18__ (4.17 Fri): __Final Exam__
 <!--
 * __01__ (2.19 Tue): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
 * __02__ (2.22 Fri): Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), [World Series Derivative](files/World_Series.pdf)
@@ -84,7 +84,7 @@
 ## Assessment / Grading Details
 * Attendance 20%, Assignments 20%, Mid-term Exam 30%, Final Exam 30%
 * Attendance: TBA ~~Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave~~
-* __Mid-term Exam__: __3.20__ Tue. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
-* __Final Exam__: __4.17__ Fri. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
+* __Mid-term Exam__: __3.20 Fri__. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
+* __Final Exam__: __4.17 Fri__. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
 * The level of background knowledge may vary among students, but it will be ignored in grading. Grading will be strictly based on outcome, not on effort or progress.
