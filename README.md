@@ -86,5 +86,5 @@
 * Attendance: TBA ~~Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave~~
 * __Mid-term Exam__: __3.20 Fri__. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
 * __Final Exam__: __4.17 Fri__. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
-* Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
+* Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
 * The level of background knowledge may vary among students, but it will be ignored in grading. Grading will be strictly based on outcome, not on effort or progress.
