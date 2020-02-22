@@ -16,14 +16,14 @@
 
 ## Lectures: 
 * __01__ (2.18 Tue): Course overview, Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
-* __02__ (2.21 Fri): Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), [World Series Derivative](files/World_Series.pdf)
-* __03__ (2.25 Tue): SCFA Ch. 1
+* __02__ (2.21 Fri): Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
+* __03__ (2.25 Tue): SCFA Ch. 1, [World Series Derivative](files/World_Series.pdf)
 * __04__ (2.28 Fri): SCFA Ch. 2
 * __05__ (3.03 Tue): [HW1 Due], SCFA Ch. 3
 * __06__ (3.06 Fri): SCFA Ch. 4
-* __07__ (3.10 Tue): SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
-* __08__ (3.13 Fri): [HW2 Due], SCFA Ch. 6, Ch. 7
-* __09__ (3.17 Tue):
+* __07__ (3.10 Tue): Normal Model ([Slides](files/Normal_Model.pdf))
+* __08__ (3.13 Fri): SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
+* __09__ (3.17 Tue): SCFA Ch. 6, Ch. 7
 * __10__ (3.20 Fri): __Midterm Exam__
 * __11__ (3.24 Tue):
 * __12__ (3.27 Fri):
@@ -86,5 +86,5 @@
 * Attendance: TBA ~~Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave~~
 * __Mid-term Exam__: __3.20 Fri__. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
 * __Final Exam__: __4.17 Fri__. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
-* Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
+* Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
 * The level of background knowledge may vary among students, but it will be ignored in grading. Grading will be strictly based on outcome, not on effort or progress.
