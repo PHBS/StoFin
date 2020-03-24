@@ -10,7 +10,7 @@
 ## Resources
 * [Course Note](files/SCFA_Notes.pdf): Supplementary to textbook (`SCFA`).
 * Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf) | [2016](files/SF2016_HW_Solution.pdf) | [2017](files/SF2017_HW_Solution.pdf) | [2018](files/SF2018_HW_Solution.pdf)
-* Midterm Exams in Past Years: [2016 ASP](files/ASP2016_Midterm.pdf) | [2016](files/SF2016_Midterm.pdf) | [2017](files/SF2017_Midterm.pdf) | [2018](files/SF2018_Midterm.pdf)
+* Midterm Exams in Past Years: [2016 ASP](files/ASP2016_Midterm.pdf) | [2016](files/SF2016_Midterm.pdf) | [2017](files/SF2017_Midterm.pdf) | [2018](files/SF2018_Midterm.pdf) | [2019](files/SF2019_Midterm.pdf) 
 * Final Exams in Past Years: [2016](files/SF2016_Final.pdf) | [2017](files/SF2017_Final.pdf) |
 [2018](files/SF2018_Final.pdf)
 
@@ -24,14 +24,14 @@
 * __07__ (3.10 Tue): Normal Model ([Slides](files/Normal_Model.pdf))
 * __08__ (3.13 Fri): SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
 * __09__ (3.17 Tue): SCFA Ch. 6, Ch. 7
-* __10__ (3.20 Fri): __Midterm Exam__
+* __10__ (3.20 Fri): __Midterm Exam__ ([Solution](files/SF2019_Midterm.pdf))
 * __11__ (3.24 Tue): Ch. 8
 * __12__ (3.27 Fri): Midterm exam review. Ch. 9
 * __13__ (3.31 Tue): Ch. 9
-* __14__ (4.03 Fri):
-* __15__ (4.07 Tue):
-* __16__ (4.10 Fri):
-* __17__ (4.14 Tue):
+* __14__ (4.03 Fri): Ch. 10 (Black-Scholes)
+* __15__ (4.07 Tue): Ch. 12 (Martingale representation theorem)
+* __16__ (4.10 Fri): Ch. 13 (Girsanov Theorem)
+* __17__ (4.14 Tue): Ch. 14 (Equivalent Martingale Measure)
 * __18__ (4.17 Fri): __Final Exam__
 <!--
 * __01__ (2.19 Tue): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
