@@ -25,9 +25,9 @@
 * __08__ (3.13 Fri): SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
 * __09__ (3.17 Tue): SCFA Ch. 6, Ch. 7
 * __10__ (3.20 Fri): __Midterm Exam__
-* __11__ (3.24 Tue):
-* __12__ (3.27 Fri):
-* __13__ (3.31 Tue):
+* __11__ (3.24 Tue): Ch. 8
+* __12__ (3.27 Fri): Midterm exam review. Ch. 9
+* __13__ (3.31 Tue): Ch. 9
 * __14__ (4.03 Fri):
 * __15__ (4.07 Tue):
 * __16__ (4.10 Fri):
