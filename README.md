@@ -29,7 +29,7 @@
 * __12__ (3.27 Fri): Midterm exam review. Ch. 9
 * __13__ (3.31 Tue): Ch. 9
 * __14__ (4.03 Fri): Ch. 10 (Black-Scholes)
-* __15__ (4.07 Tue): Ch. 12 (Martingale representation theorem)
+* __15__ (4.07 Tue): Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov Theorem)
 * __16__ (4.10 Fri): Ch. 13 (Girsanov Theorem)
 * __17__ (4.14 Tue): Ch. 14 (Equivalent Martingale Measure)
 * __18__ (4.17 Fri): __Final Exam__
