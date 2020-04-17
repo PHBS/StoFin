@@ -12,7 +12,7 @@
 * Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf) | [2016](files/SF2016_HW_Solution.pdf) | [2017](files/SF2017_HW_Solution.pdf) | [2018](files/SF2018_HW_Solution.pdf)
 * Midterm Exams in Past Years: [2016 ASP](files/ASP2016_Midterm.pdf) | [2016](files/SF2016_Midterm.pdf) | [2017](files/SF2017_Midterm.pdf) | [2018](files/SF2018_Midterm.pdf) | [2019](files/SF2019_Midterm.pdf) 
 * Final Exams in Past Years: [2016](files/SF2016_Final.pdf) | [2017](files/SF2017_Final.pdf) |
-[2018](files/SF2018_Final.pdf)
+[2018](files/SF2018_Final.pdf) | [2019](files/SF2019_Final.pdf) 
 
 ## Lectures: 
 * __01__ (2.18 Tue): Course overview, Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
@@ -32,7 +32,7 @@
 * __15__ (4.07 Tue): Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov Theorem)
 * __16__ (4.10 Fri): Ch. 13 (Girsanov Theorem)
 * __17__ (4.14 Tue): Ch. 14 (Equivalent Martingale Measure)
-* __18__ (4.17 Fri): __Final Exam__
+* __18__ (4.17 Fri): __Final Exam__ ([Solution](files/SF2019_Final.pdf))
 <!--
 * __01__ (2.19 Tue): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
 * __02__ (2.22 Fri): Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), [World Series Derivative](files/World_Series.pdf)
