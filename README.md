@@ -14,7 +14,6 @@
 * Final Exams in Past Years: [2016](files/SF2016_Final.pdf) | [2017](files/SF2017_Final.pdf) |
 [2018](files/SF2018_Final.pdf) | [2019](files/SF2019_Final.pdf) 
 
-## Lectures: 
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
