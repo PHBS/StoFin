@@ -9,9 +9,9 @@
 
 ## Resources
 * [Course Note](files/SCFA_Notes.pdf): Supplementary to textbook (`SCFA`).
-* Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf) | [2016](files/SF2016_HW_Solution.pdf) | [2017](files/SF2017_HW_Solution.pdf) | [2018](files/SF2018_HW_Solution.pdf)
-* Midterm Exams in Past Years: [2016 ASP](files/ASP2016_Midterm.pdf) | [2016](files/SF2016_Midterm.pdf) | [2017](files/SF2017_Midterm.pdf) | [2018](files/SF2018_Midterm.pdf) | [2019](files/SF2019_Midterm.pdf) 
-* Final Exams in Past Years: [2016](files/SF2016_Final.pdf) | [2017](files/SF2017_Final.pdf) |
+* [Problems and Solutions](files/SF_Problems.pdf) (SCFA/HW/Midterm/Final)
+  * Midterm Exams in Past Years: [2016 ASP](files/ASP2016_Midterm.pdf) | [2016](files/SF2016_Midterm.pdf) | [2017](files/SF2017_Midterm.pdf) | [2018](files/SF2018_Midterm.pdf) | [2019](files/SF2019_Midterm.pdf) 
+  * Final Exams in Past Years: [2016](files/SF2016_Final.pdf) | [2017](files/SF2017_Final.pdf) |
 [2018](files/SF2018_Final.pdf) | [2019](files/SF2019_Final.pdf) 
 
 ## Lectures
