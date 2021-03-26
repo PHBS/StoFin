@@ -21,8 +21,8 @@ __01__ | 9.03 Tue | Course overview, Probability Statistics Review ([Slides](fil
 __02__ | 3.12 Fri | Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
 __03__ | 3.16 Tue | SCFA Ch. 1, [World Series Derivative](files/World_Series.pdf)
 __04__ | 3.19 Fri | SCFA Ch. 2
-__05__ | 3.23 Tue | [HW1 Due], SCFA Ch. 3
-__06__ | 3.26 Fri | SCFA Ch. 4
+__05__ | 3.23 Tue | SCFA Ch. 3
+__06__ | 3.26 Fri | SCFA Ch. 4 [[HW1](files/SF2020_HW_Solution.pdf), Due Tuesday]
 __07__ | 3.30 Tue | Bachelier (Normal) Model ([Slides](files/Normal_Model.pdf))
 __08__ | 4.02 Fri | SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
 __09__ | 4.06 Tue | SCFA Ch. 6, Ch. 7
