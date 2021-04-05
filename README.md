@@ -59,7 +59,7 @@ Exam | 5.15 Sat | 11 AM - 1 PM. Final Exam
 
 ## Teaching Assistance: Wang Congyuan (王琮元)
 * Email: 1901212637@pku.edu.cn
-* TA Office Hour: TBA (Room 213/214)
+* TA Office Hour: Monday 7-9 PM / Wednesday 1:30-3:20 PM  (Room 213/214)
 
 ## Textbooks and Reading Materials
 * __SCFA__: [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
