@@ -10,7 +10,7 @@
 ## Resources
 * [Course Note](files/SCFA_Notes.pdf): Supplementary to textbook (`SCFA`).
 * [Problems and Solutions](files/SF_Problems.pdf) (SCFA/HW/Midterm/Final)
-  * Midterm Exams in Past Years: [2016 ASP](files/ASP2016_Midterm.pdf) | [2016](files/SF2016_Midterm.pdf) | [2017](files/SF2017_Midterm.pdf) | [2018](files/SF2018_Midterm.pdf) | [2019](files/SF2019_Midterm.pdf) 
+  * Midterm Exams in Past Years: [2016 ASP](files/ASP2016_Midterm.pdf) | [2016](files/SF2016_Midterm.pdf) | [2017](files/SF2017_Midterm.pdf) | [2018](files/SF2018_Midterm.pdf) | [2019](files/SF2019_Midterm.pdf) | [2020](files/SF2020_Midterm.pdf) 
   * Final Exams in Past Years: [2016](files/SF2016_Final.pdf) | [2017](files/SF2017_Final.pdf) |
 [2018](files/SF2018_Final.pdf) | [2019](files/SF2019_Final.pdf) 
 
@@ -26,7 +26,7 @@ __06__ | 3.26 Fri | SCFA Ch. 4 [[HW1](files/SF2020_HW_Solution.pdf), Due Tuesday
 __07__ | 3.30 Tue | Bachelier (Normal) Model ([Slides](files/Normal_Model.pdf))
 __08__ | 4.02 Fri | SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
 __09__ | 4.06 Tue | SCFA Ch. 6, Questions Review
-__10__ | 4.09 Fri | __Midterm Exam__ 
+__10__ | 4.09 Fri | __Midterm Exam__ ([Solution](files/SF2020_Midterm.pdf) )
 __11__ | 4.13 Tue | Ch. 7-8
 __12__ | 4.16 Fri | Midterm exam review. Ch. 9
 __13__ | 4.20 Tue | Ch. 9
