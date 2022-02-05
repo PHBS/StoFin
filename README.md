@@ -1,11 +1,7 @@
 # Stochastic Finance 2021-22 Module 3 (Spring 2022)
 
 ## Announcements
-* Class mailing list will bs created as __PHBS.StoFin@allmail.net__ soon. But, the announcements will be made in DingTalk group chat.
-<!--
-* Before final exam, I will have an extended office hour on 4.18, __8-11 PM__
-* Before midterm exam, I will have an extended office hour on 3.21, __2-6 PM__
--->
+* Class mailing list will bs created as __PHBS.StoFin@allmail.net__ soon.
 
 ## Resources
 * [Course Note](files/SCFA_Notes.pdf): Supplementary to textbook (`SCFA`).
