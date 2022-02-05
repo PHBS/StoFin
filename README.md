@@ -1,4 +1,4 @@
-# Stochastic Finance 2021-21 Module 3 (Spring 2021)
+# Stochastic Finance 2021-22 Module 3 (Spring 2022)
 
 ## Announcements
 * Class mailing list will bs created as __PHBS.StoFin@allmail.net__ soon. But, the announcements will be made in DingTalk group chat.
@@ -26,7 +26,7 @@ __06__ | 3.26 Fri | SCFA Ch. 4 [[HW1](files/SF2020_HW_Solution.pdf), Due Tuesday
 __07__ | 3.30 Tue | Bachelier (Normal) Model ([Slides](files/Normal_Model.pdf))
 __08__ | 4.02 Fri | SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
 __09__ | 4.06 Tue | SCFA Ch. 6, Questions Review
-__10__ | 4.09 Fri | __Midterm Exam__ ([Solution](files/SF2020_Midterm.pdf) )
+__10__ | 4.09 Fri | __Midterm Exam__
 __11__ | 4.13 Tue | Ch. 7-8
 __12__ | 4.16 Fri | Midterm exam review. Ch. 9
 __13__ | 4.20 Tue | Ch. 9
@@ -35,7 +35,7 @@ __15__ | 4.27 Tue | Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov
 __16__ | 4.28 Wed | Ch. 13 (Girsanov Theorem)
 __17__ | 5.04 Tue | Ch. 14 (Equivalent Martingale Measure)
 __18__ | 5.07 Fri | Ch. 14
-Exam | 5.15 Sat | 11 AM - 1 PM. Final Exam
+Exam | 4.26 Tue | 8:30 - 10:20. Final Exam
 
 ## Homeworks: 
 <!--
@@ -48,18 +48,18 @@ Exam | 5.15 Sat | 11 AM - 1 PM. Final Exam
 # Syllabus
 
 ## Classes:
-* Lectures: Tuesday & Friday 10:30 – 12:20 AM
-* Venue: PHBS Building, Room 231
+* Lectures: Tuesday & Friday 8:30 – 10:20 AM
+* Venue: PHBS Building, Room 229
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en)
 * Office: PHBS Building, Room 755
 * Phone: 86-755-2603-0568
 * Email: jaehyuk@phbs.pku.edu.cn
-* Office Hour: Tuesday 9-10 PM / Friday 3:30-4:30 PM
+* Office Hour: ** TBA **
 
-## Teaching Assistance: Wang Congyuan (王琮元)
-* Email: 1901212637@pku.edu.cn
-* TA Office Hour: Monday 7-9 PM / Wednesday 1:30-3:20 PM  (Room 213/214)
+## Teaching Assistance: HU Xueyang (胡雪阳)
+* Email: huxueyang@stu.pku.edu.cn
+* TA Office Hour: ** TBA **  (Room 213/214)
 
 ## Textbooks and Reading Materials
 * __SCFA__: [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
