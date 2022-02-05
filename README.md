@@ -13,17 +13,17 @@
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.03 Tue | Course overview, Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
-__02__ | 3.12 Fri | Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
-__03__ | 3.16 Tue | SCFA Ch. 1, [World Series Derivative](files/World_Series.pdf)
-__04__ | 3.19 Fri | SCFA Ch. 2
-__05__ | 3.23 Tue | SCFA Ch. 3
-__06__ | 3.26 Fri | SCFA Ch. 4 [[HW1](files/SF2020_HW_Solution.pdf), Due Tuesday]
-__07__ | 3.30 Tue | Bachelier (Normal) Model ([Slides](files/Normal_Model.pdf))
-__08__ | 4.02 Fri | SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
-__09__ | 4.06 Tue | SCFA Ch. 6, Questions Review
-__10__ | 4.09 Fri | __Midterm Exam__
-__11__ | 4.13 Tue | Ch. 7-8
+__01__ | 2.22 Tue | Course overview, Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
+__02__ | 2.25 Fri | Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
+__03__ | 3.01 Tue | SCFA Ch. 1, [World Series Derivative](files/World_Series.pdf)
+__04__ | 3.04 Fri | SCFA Ch. 2
+__05__ | 3.08 Tue | SCFA Ch. 3
+__06__ | 3.11 Fri | SCFA Ch. 4 [[HW1](files/SF2020_HW_Solution.pdf), Due Tuesday]
+__07__ | 3.15 Tue | Bachelier (Normal) Model ([Slides](files/Normal_Model.pdf))
+__08__ | 3.18 Fri | SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
+__09__ | 3.22 Tue | SCFA Ch. 6, Questions Review
+__10__ | 3.29 Fri | __Midterm Exam__
+__11__ | 4.01 Tue | Ch. 7-8
 __12__ | 4.16 Fri | Midterm exam review. Ch. 9
 __13__ | 4.20 Tue | Ch. 9
 __14__ | 4.23 Fri | Ch. 10 (Black-Scholes)
