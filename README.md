@@ -22,15 +22,15 @@ __06__ | 3.11 Fri | SCFA Ch. 4 [[HW1](files/SF2020_HW_Solution.pdf), Due Tuesday
 __07__ | 3.15 Tue | Bachelier (Normal) Model ([Slides](files/Normal_Model.pdf))
 __08__ | 3.18 Fri | SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
 __09__ | 3.22 Tue | SCFA Ch. 6, Questions Review
-__10__ | 3.29 Fri | __Midterm Exam__
-__11__ | 4.01 Tue | Ch. 7-8
-__12__ | 4.16 Fri | Midterm exam review. Ch. 9
-__13__ | 4.20 Tue | Ch. 9
-__14__ | 4.23 Fri | Ch. 10 (Black-Scholes)
-__15__ | 4.27 Tue | Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov Theorem)
-__16__ | 4.28 Wed | Ch. 13 (Girsanov Theorem)
-__17__ | 5.04 Tue | Ch. 14 (Equivalent Martingale Measure)
-__18__ | 5.07 Fri | Ch. 14
+__10__ | 3.25 Fri | __Midterm Exam__
+__11__ | 3.29 Tue | Ch. 7-8
+__12__ | 4.01 Fri | Midterm exam review. Ch. 9
+__13__ | 4.05 Tue | Ch. 9
+__14__ | 4.08 Fri | Ch. 10 (Black-Scholes)
+__15__ | 4.12 Tue | Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov Theorem)
+__16__ | 4.15 Fri | Ch. 13 (Girsanov Theorem)
+__17__ | 4.19 Tue | Ch. 14 (Equivalent Martingale Measure)
+__18__ | 4.22 Fri | Ch. 14
 Exam | 4.26 Tue | 8:30 - 10:20. Final Exam
 
 ## Homeworks: 
