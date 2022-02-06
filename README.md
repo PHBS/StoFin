@@ -25,13 +25,13 @@ __09__ | 3.22 Tue | SCFA Ch. 6, Questions Review
 __10__ | 3.25 Fri | __Midterm Exam__
 __11__ | 3.29 Tue | Ch. 7-8
 __12__ | 4.01 Fri | Midterm exam review. Ch. 9
-__13__ | 4.05 Tue | Ch. 9
+__13__ | 4.06 __Wed__ | Ch. 9
 __14__ | 4.08 Fri | Ch. 10 (Black-Scholes)
 __15__ | 4.12 Tue | Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov Theorem)
 __16__ | 4.15 Fri | Ch. 13 (Girsanov Theorem)
 __17__ | 4.19 Tue | Ch. 14 (Equivalent Martingale Measure)
 __18__ | 4.22 Fri | Ch. 14
-Exam | 4.26 Tue | 8:30 - 10:20. Final Exam
+Exam | 4.26 Tue | __Final Exam__ 8:30 - 10:20 AM. 
 
 ## Homeworks: 
 <!--
@@ -63,7 +63,8 @@ Exam | 4.26 Tue | 8:30 - 10:20. Final Exam
 ## Assessment / Grading Details
 * Attendance 20%, Assignments 20%, Mid-term Exam 30%, Final Exam 30%
 * Attendance: Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
-* __Mid-term Exam__: __4.09 Fri__. In-class open-book without computer/phone/calculator
-* __Final Exam__: __5.15 Fri__. In-class open-book without computer/phone/calculator
+* __Mid-term Exam__: __3.25 Fri__, __Final Exam__: __4.26 Tues__
+  * Closed-book exam with one A4 page cheat sheet. No computer/phone/calculator.
+  * Some problems will be similar to those in the past exams.
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
 * The level of background knowledge may vary among students, but it will be ignored in grading. Grading will be strictly based on outcome, not on effort or progress.
