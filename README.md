@@ -64,7 +64,7 @@ Exam | 4.26 Tue | __Final Exam__ 8:30 - 10:20 AM.
 * Attendance 20%, Assignments 20%, Mid-term Exam 30%, Final Exam 30%
 * Attendance: Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Mid-term Exam__: __3.25 Fri__, __Final Exam__: __4.26 Tues__
-  * Closed-book exam with one A4 page cheat sheet. No computer/phone/calculator.
+  * Closed-book exam. No computer/phone/calculator. <!--  with one A4 page cheat sheet -->
   * Some problems will be similar to those in the past exams.
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
 * The level of background knowledge may vary among students, but it will be ignored in grading. Grading will be strictly based on outcome, not on effort or progress.
