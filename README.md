@@ -31,7 +31,7 @@ __15__ | 4.12 Tue | Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov
 __16__ | 4.15 Fri | Ch. 13 (Girsanov Theorem)
 __17__ | 4.19 Tue | Ch. 14 (Equivalent Martingale Measure)
 __18__ | 4.22 Fri | Ch. 14
-Exam | 4.26 Tue | __Final Exam__ 8:30 - 10:20 AM. 
+Exam | 4.30 Sat | __Final Exam__ 8:30 - 10:20 AM. 
 
 ## Homeworks: 
 <!--
@@ -63,7 +63,7 @@ Exam | 4.26 Tue | __Final Exam__ 8:30 - 10:20 AM.
 ## Assessment / Grading Details
 * Attendance 20%, Assignments 20%, Mid-term Exam 30%, Final Exam 30%
 * Attendance: Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
-* __Mid-term Exam__: __3.25 Fri__, __Final Exam__: __4.26 Tues__
+* __Mid-term Exam__: __3.25 Fri__, __Final Exam__: __4.30 Sat__
   * Closed-book exam. No computer/phone/calculator. <!--  with one A4 page cheat sheet -->
   * Some problems will be similar to those in the past exams.
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
