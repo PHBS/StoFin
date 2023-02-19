@@ -1,4 +1,4 @@
-# Stochastic Finance 2021-22 Module 3 (Spring 2022)
+# Stochastic Finance 2022-23 Module 3 (Spring 2023)
 
 ## Announcements
 * Class mailing list will bs created as __PHBS.StoFin@allmail.net__ soon.
@@ -13,25 +13,25 @@
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 2.22 Tue | Course overview, Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
-__02__ | 2.25 Fri | Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
-__03__ | 3.01 Tue | SCFA Ch. 1, [World Series Derivative](files/World_Series.pdf)
-__04__ | 3.04 Fri | SCFA Ch. 2
-__05__ | 3.08 Tue | SCFA Ch. 3 [[HW1](files/SF2021_HW_Solution.pdf), Due Saturday]
-__06__ | 3.11 Fri | SCFA Ch. 4 
-__07__ | 3.15 Tue | Bachelier (Normal) Model ([Slides](files/Normal_Model.pdf))
-__08__ | 3.18 Fri | SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
-__09__ | 3.22 Tue | SCFA Ch. 6, Questions Review
-__10__ | 3.25 Fri | __Midterm Exam__
-__11__ | 3.29 Tue | Ch. 7-8
-__12__ | 4.01 Fri | Midterm exam review. Ch. 9
-__13__ | 4.06 __Wed__ | Ch. 9
-__14__ | 4.08 Fri | Ch. 10 (Black-Scholes)
-__15__ | 4.12 Tue | Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov Theorem)
-__16__ | 4.15 Fri | Ch. 13 (Girsanov Theorem)
-__17__ | 4.19 Tue | Ch. 14 (Equivalent Martingale Measure)
-__18__ | 4.22 Fri | Ch. 14
-Exam | 4.30 Sat | __Final Exam__ 8:30 - 10:20 AM. 
+__01__ | 2.21 Tue | Course overview, Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
+__02__ | 2.24 Fri | Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
+__03__ | 2.28 Tue | SCFA Ch. 1, [World Series Derivative](files/World_Series.pdf)
+__04__ | 3.03 Fri | SCFA Ch. 2
+__05__ | 3.07 Tue | SCFA Ch. 3 [[HW1](files/SF2021_HW_Solution.pdf), Due Saturday]
+__06__ | 3.10 Fri | SCFA Ch. 4 
+__07__ | 3.14 Tue | Bachelier (Normal) Model ([Slides](files/Normal_Model.pdf))
+__08__ | 3.17 Fri | SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
+__09__ | 3.21 Tue | SCFA Ch. 6, Questions Review
+__10__ | 3.24 Fri | __Midterm Exam__
+__11__ | 3.28 Tue | Ch. 7-8
+__12__ | 3.31 Fri | Midterm exam review. Ch. 9
+__13__ | 4.04 Tue | Ch. 9
+__14__ | 4.07 Fri | Ch. 10 (Black-Scholes)
+__15__ | 4.11 Tue | Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov Theorem)
+__16__ | 4.14 Fri | Ch. 13 (Girsanov Theorem)
+__17__ | 4.18 Tue | Ch. 14 (Equivalent Martingale Measure)
+__18__ | 4.21 Fri | Ch. 14
+Exam | 4.29 Sat | __Final Exam__ 4 - 6 PM 
 
 ## Homeworks: 
 <!--
@@ -44,7 +44,7 @@ Exam | 4.30 Sat | __Final Exam__ 8:30 - 10:20 AM.
 # Syllabus
 
 ## Classes:
-* Lectures: Tuesday & Friday 8:30 – 10:20 AM
+* Lectures: Tuesday & Friday 10:30 AM – 12:20 PM
 * Venue: PHBS Building, Room 229
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en)
@@ -53,7 +53,7 @@ Exam | 4.30 Sat | __Final Exam__ 8:30 - 10:20 AM.
 * Email: jaehyuk@phbs.pku.edu.cn
 * Office Hour: ** TBA **
 
-## Teaching Assistance: HU Xueyang (胡雪阳)
+## Teaching Assistance: TBA
 * Email: huxueyang@stu.pku.edu.cn
 * TA Office Hour: ** TBA **  (Room 213/214)
 
@@ -63,7 +63,7 @@ Exam | 4.30 Sat | __Final Exam__ 8:30 - 10:20 AM.
 ## Assessment / Grading Details
 * Attendance 20%, Assignments 20%, Mid-term Exam 30%, Final Exam 30%
 * Attendance: Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
-* __Mid-term Exam__: __3.25 Fri__, __Final Exam__: __4.30 Sat__
+* __Mid-term Exam__: __3.24 Fri__, __Final Exam__: __4.29 Sat__
   * Closed-book exam. No computer/phone/calculator. <!--  with one A4 page cheat sheet -->
   * Some problems will be similar to those in the past exams.
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
