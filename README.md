@@ -19,8 +19,8 @@ __03__ | 2.28 Tue | SCFA Ch. 1, [World Series Derivative](files/World_Series.pdf
 __04__ | 3.03 Fri | SCFA Ch. 2
 __05__ | 3.07 Tue | SCFA Ch. 3 [[HW1](files/SF2021_HW_Solution.pdf), Due Saturday]
 __06__ | 3.10 Fri | SCFA Ch. 4 
-__07__ | 3.14 Tue | Bachelier (Normal) Model ([Slides](files/Normal_Model.pdf))
-__08__ | 3.17 Fri | SCFA Ch. 5 (Knock-out option under Normal model), Ch. 6
+__07__ | 3.14 Tue | Bachelier (Normal) Model ([Slides](files/Bachelier_Model.pdf))
+__08__ | 3.17 Fri | SCFA Ch. 5 (Knock-out option under Bachelier model), Ch. 6
 __09__ | 3.21 Tue | SCFA Ch. 6, Questions Review
 __10__ | 3.24 Fri | __Midterm Exam__
 __11__ | 3.28 Tue | Ch. 7-8
