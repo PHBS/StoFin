@@ -20,9 +20,9 @@ __04__ | 3.03 Fri | SCFA Ch. 2
 __05__ | 3.07 Tue | SCFA Ch. 3 [[HW1](files/SF2021_HW_Solution.pdf), Due Saturday]
 __06__ | 3.10 Fri | SCFA Ch. 4 
 __07__ | 3.14 Tue | Bachelier (Normal) Model ([Slides](files/Bachelier_Model.pdf))
-__08__ | 3.17 Fri | SCFA Ch. 5 (Knock-out option under Bachelier model), Ch. 6
-__09__ | 3.21 Tue | SCFA Ch. 6, Questions Review
-__10__ | 3.24 Fri | __Midterm Exam__
+__08__ | 3.17 Tue | SCFA Ch. 6, Questions Review (optional)
+__09__ | 3.21 Fri | __Midterm Exam__
+__10__ | 3.24 Fri | SCFA Ch. 5 (Knock-out option under Bachelier model), Ch. 6
 __11__ | 3.28 Tue | Ch. 7-8
 __12__ | 3.31 Fri | Midterm exam review. Ch. 9
 __13__ | 4.04 Tue | Ch. 9
@@ -61,7 +61,7 @@ Exam | 4.29 Sat | __Final Exam__ 4 - 6 PM
 * __SCFA__: [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
 
 ## Assessment / Grading Details
-* Attendance 20%, Assignments 20%, Mid-term Exam 30%, Final Exam 30%
+* Attendance 20%, Assignments 15%, Mid-term Exam 30%, Final Exam 35%
 * Attendance: Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Mid-term Exam__: __3.24 Fri__, __Final Exam__: __4.29 Sat__
   * Closed-book exam. No computer/phone/calculator. <!--  with one A4 page cheat sheet -->
