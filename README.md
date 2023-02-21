@@ -51,7 +51,7 @@ Exam | 4.29 Sat | __Final Exam__ 4 - 6 PM
 * Office: PHBS Building, Room 755
 * Phone: 86-755-2603-0568
 * Email: jaehyuk@phbs.pku.edu.cn
-* Office Hour: ** TBA **
+* Office Hour: Monday 7 - 9 PM
 
 ## Teaching Assistance: TBA
 * Email: huxueyang@stu.pku.edu.cn
