@@ -53,8 +53,8 @@ Exam | 4.29 Sat | __Final Exam__ 4 - 6 PM
 * Email: jaehyuk@phbs.pku.edu.cn
 * Office Hour: Monday 7 - 9 PM
 
-## Teaching Assistance: TBA
-* Email: huxueyang@stu.pku.edu.cn
+## Teaching Assistance: 孙博 (SUN Bo)
+* Email: harveysun@stu.pku.edu.cn
 * TA Office Hour: ** TBA **  (Room 213/214)
 
 ## Textbooks and Reading Materials
