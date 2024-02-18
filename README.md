@@ -6,32 +6,32 @@
 ## Resources
 * [Course Note](files/SCFA_Notes.pdf): Supplementary to textbook (`SCFA`).
 * [Problems and Solutions](files/SF_Problems.pdf) (SCFA/HW/Midterm/Final)
-  * Midterm Exams in Past Years: [2016 ASP](files/ASP2016_Midterm.pdf) | [2016](files/SF2016_Midterm.pdf) | [2017](files/SF2017_Midterm.pdf) | [2018](files/SF2018_Midterm.pdf) | [2019](files/SF2019_Midterm.pdf) | [2020](files/SF2020_Midterm.pdf) | [2021](files/SF2021_Midterm.pdf) 
+  * Midterm Exams in Past Years: [2016 ASP](files/ASP2016_Midterm.pdf) | [2016](files/SF2016_Midterm.pdf) | [2017](files/SF2017_Midterm.pdf) | [2018](files/SF2018_Midterm.pdf) | [2019](files/SF2019_Midterm.pdf) | [2020](files/SF2020_Midterm.pdf) | [2021](files/SF2021_Midterm.pdf) | [2022](files/SF2022_Midterm.pdf) 
   * Final Exams in Past Years: [2016](files/SF2016_Final.pdf) | [2017](files/SF2017_Final.pdf) |
-[2018](files/SF2018_Final.pdf) | [2019](files/SF2019_Final.pdf) | [2020](files/SF2020_Final.pdf) | [2021](files/SF2021_Final.pdf) 
+[2018](files/SF2018_Final.pdf) | [2019](files/SF2019_Final.pdf) | [2020](files/SF2020_Final.pdf) | [2021](files/SF2021_Final.pdf) | [2022](files/SF2022_Final.pdf) 
 
 ## Lectures
 No | Date | Contents
 --- | :---: | ---
-__01__ | 2.21 Tue | Course overview, Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
-__02__ | 2.24 Fri | Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
-__03__ | 2.28 Tue | SCFA Ch. 1, [World Series Derivative](files/World_Series.pdf)
-__04__ | 3.03 Fri | SCFA Ch. 2
-__05__ | 3.07 Tue | SCFA Ch. 3
-__06__ | 3.10 Fri | SCFA Ch. 4 
-__07__ | 3.14 Tue | Bachelier (Normal) Model ([Slides](files/Bachelier_Model.pdf))
-__08__ | 3.17 Fri | SCFA Ch. 6, Questions Review (optional)
-__09__ | 3.21 Tue | __Midterm Exam__
-__10__ | 3.24 Fri | SCFA Ch. 5 (Knock-out option under Bachelier model), Ch. 6
-__11__ | 3.28 Tue | Ch. 7-8
-__12__ | 3.31 Fri | Midterm exam review. Ch. 9
-__13__ | 4.04 Tue | Ch. 9
-__14__ | 4.07 Fri | Ch. 10 (Black-Scholes)
-__15__ | 4.11 Tue | Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov Theorem)
-__16__ | 4.14 Fri | Ch. 13 (Girsanov Theorem)
-__17__ | 4.18 Tue | Ch. 14 (Equivalent Martingale Measure)
-__18__ | 4.21 Fri | Ch. 14
-Exam | 4.29 Sat | __Final Exam__ 4 - 6 PM 
+__01__ | 2.19 Mon | Course overview, Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
+__02__ | 2.22 Thur | Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
+__03__ | 2.26 Mon | SCFA Ch. 1, [World Series Derivative](files/World_Series.pdf)
+__04__ | 2.29 Thur | SCFA Ch. 2
+__05__ | 3.04 Mon | SCFA Ch. 3
+__06__ | 3.07 Thur | SCFA Ch. 4 
+__07__ | 3.11 Mon | Bachelier (Normal) Model ([Slides](files/Bachelier_Model.pdf))
+__08__ | 3.14 Thur | SCFA Ch. 6, Questions Review (optional)
+__09__ | 3.18 Mon | __Midterm Exam__
+__10__ | 3.21 Thur | SCFA Ch. 5 (Knock-out option under Bachelier model), Ch. 6
+__11__ | 3.25 Mon | Ch. 7-8
+__12__ | 3.28 Thur | Midterm exam review. Ch. 9
+__13__ | 4.01 Mon | Ch. 9
+__14__ | 4.03 Thur | Ch. 10 (Black-Scholes)
+__15__ | 4.08 Mon | Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov Theorem)
+__16__ | 4.11 Thur | Ch. 13 (Girsanov Theorem)
+__17__ | 4.15 Mon | Ch. 14 (Equivalent Martingale Measure)
+__18__ | 4.18 Thur | Ch. 14
+Exam | 4.21 Sun | __Final Exam__ 11 AM - 1 PM 
 
 ## Homeworks: 
 <!--
@@ -44,17 +44,17 @@ Exam | 4.29 Sat | __Final Exam__ 4 - 6 PM
 # Syllabus
 
 ## Classes:
-* Lectures: Tuesday & Friday 10:30 AM – 12:20 PM
-* Venue: PHBS Building, Room 229
+* Lectures: Monday & Thursday 10:30 AM – 12:20 PM
+* Venue: PHBS Building, Room 313
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en)
 * Office: PHBS Building, Room 755
 * Phone: 86-755-2603-0568
 * Email: jaehyuk@phbs.pku.edu.cn
-* Office Hour: Monday 7 - 9 PM
+* Office Hour: Monday 7 - 9 PM (Tentative)
 
-## Teaching Assistance: 孙博 (SUN Bo)
-* Email: harveysun@stu.pku.edu.cn
+## Teaching Assistance: 周恩泽 (Zhou Enze)
+* Email: zhouenze@stu.pku.edu.cn
 * TA Office Hour: ** TBA **  (Room 213/214)
 
 ## Textbooks and Reading Materials
@@ -62,7 +62,7 @@ Exam | 4.29 Sat | __Final Exam__ 4 - 6 PM
 
 ## Assessment / Grading Details
 * Attendance 20%, Assignments 15%, Mid-term Exam 30%, Final Exam 35%
-* Attendance: Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
+* Attendance: Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave requests should be made 24 hours before with supporting documents, except for emergencies. Job interview/internship cannot be a valid reason for leave
 * __Mid-term Exam__: __3.21 Tue__, __Final Exam__: __4.29 Sat__
   * Closed-book exam. No computer/phone/calculator. <!--  with one A4 page cheat sheet -->
   * Some problems will be similar to those in the past exams.
