@@ -1,7 +1,7 @@
-# Stochastic Finance 2022-23 Module 3 (Spring 2023)
+# Stochastic Finance 2023-24 Module 3 (Spring 2024)
 
 ## Announcements
-* Class mailing list will bs created as __PHBS.StoFin@allmail.net__ soon.
+* Class mailing list will be created as __PHBS.StoFin@allmail.net__ soon.
 
 ## Resources
 * [Course Note](files/SCFA_Notes.pdf): Supplementary to textbook (`SCFA`).
