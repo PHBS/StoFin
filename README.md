@@ -1,6 +1,7 @@
 # Stochastic Finance 2023-24 Module 3 (Spring 2024)
 
 ## Announcements
+* The WeChat group will be created by TA. (No 1-to-1 chat please.)
 * Class mailing list will be created as __PHBS.StoFin@allmail.net__ soon.
 
 ## Resources
