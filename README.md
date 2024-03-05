@@ -23,11 +23,11 @@ __06__ | 3.07 Thur | SCFA Ch. 4
 __07__ | 3.11 Mon | Bachelier (Normal) Model ([Slides](files/Bachelier_Model.pdf))
 __08__ | 3.14 Thur | SCFA Ch. 6, Questions Review (optional)
 __09__ | 3.18 Mon | __Midterm Exam__
-__10__ | 3.21 Thur | SCFA Ch. 5 (Knock-out option under Bachelier model), Ch. 6
-__11__ | 3.25 Mon | Ch. 7-8
-__12__ | 3.28 Thur | Midterm exam review. Ch. 9
-__13__ | 4.01 Mon | Ch. 9
-__14__ | 4.03 Thur | Ch. 10 (Black-Scholes)
+__10__ | 3.20 Wed | SCFA Ch. 5 (Knock-out option under Bachelier model), Ch. 6
+__11__ | 3.21 Thur | Ch. 7-8
+__12__ | 3.25 Mon | Midterm exam review. Ch. 9
+__13__ | 3.28 Thur | Ch. 9
+__14__ | 4.01 Mon | Ch. 10 (Black-Scholes)
 __15__ | 4.08 Mon | Ch. 12 (Martingale representation theorem), Ch. 13 (Girsanov Theorem)
 __16__ | 4.11 Thur | Ch. 13 (Girsanov Theorem)
 __17__ | 4.15 Mon | Ch. 14 (Equivalent Martingale Measure)
